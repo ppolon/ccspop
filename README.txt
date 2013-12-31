@@ -25,14 +25,14 @@ CONTENTS
 CCS-POP MEX Implementation
 ==========================
 
-Refer to READEME_MEX.txt in ./ccspop_mex
+Refer to ./ccspop_mex/README.txt
 
 
 
 CCS-POP Matlab Implementation
 ==========================
 
-Refer to READEME_MEX.txt in ./ccspop_mex
+Refer to ./ccspop_mex/README.txt
 
 
 
